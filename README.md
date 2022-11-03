@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaryLuck
-- 👀 I’m interested in ... softwar, BASIC, BASIC interpreters!
+- 👀 I’m interested in ... software, BASIC, BASIC interpreters!
 - 🌱 I’m currently learning ... about GIT
 - 💞️ I’m looking to collaborate on ... TBD
 - 📫 How to reach me ... garyluckenbaugh@outlook.com
